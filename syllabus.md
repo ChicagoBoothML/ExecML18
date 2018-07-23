@@ -58,7 +58,7 @@ Prior experience in R is required.
 
 All computing in class will be conducted in R.
 The focus of the class will be on teaching Machine Learning concepts rather than how to use R.
-You can find additional resources [here](Computing).
+You can find additional resources [here](../computing).
 
 ## Textbooks
 

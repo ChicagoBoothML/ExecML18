@@ -32,6 +32,17 @@ You can download it from [here](https://www.rstudio.com/products/rstudio/downloa
 
 **R Tutorials**:
 
+[Lynda.uchicago.edu](Lynda.uchicago.edu) resources
+
+* [Data Wrangling in R](https://www.lynda.com/R-tutorials/Data-Wrangling-R/594442-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aR%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+* [R for Data Science: Lunchbreak Lessons](https://www.lynda.com/R-tutorials/R-Data-Science-Lunchbreak-Lessons/651209-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3aR%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+* [R Statistics Essential Training](https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html?srchtrk=index%3a12%0alinktypeid%3a2%0aq%3aR%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+* [Code Clinic: R](https://www.lynda.com/R-tutorials/Code-Clinic-R/372541-2.html?srchtrk=index%3a13%0alinktypeid%3a2%0aq%3aR%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+* [Learning R](https://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html?srchtrk=index%3a5%0alinktypeid%3a2%0aq%3aR%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+* [Logistic Regression in R and Excel](https://www.lynda.com/Office-365-Mac-tutorials/Learning-Logistic-Regression-R-Excel/540348-2.html?srchtrk=index%3a6%0alinktypeid%3a2%0aq%3aR%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+
+Some additiona resource:
+
 - [A (very) short introduction to R](https://github.com/mlakolar/BUS41000/raw/master/files/Rintro.pdf)
 - [A Beginner's Guide to R: Introduction](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html) by Sharon Machlis
 - [Quick Guide to R Layout](http://dss.princeton.edu/training/RStudio101.pdf) by Oscar Torres-Reyna

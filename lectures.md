@@ -11,26 +11,19 @@ permalink: /lectures/
 * k nearest neighbors methods; similarity in machine learning
 * bias-variance trade-off; cross-validation
 
-<!---
-
-[Course Overview](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j5ygjld9mu26re),
-[Slides](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j5ygjbkr1qa6pk)  
-
---->
+[Course Overview](https://piazza.com/class_profile/get_resource/ji3gjqmmspyku/jko3s3x2yyo3k7),
+[Slides](https://piazza.com/class_profile/get_resource/ji3gjqmmspyku/jko3s73cxy13kw)  
 
 _Optional reading_:
 
  * An Introduction to Statistical Learning: Section 2, Section 5.1
    * PDF can be freely obtained [here](http://www-bcf.usc.edu/~gareth/ISL/).
 
-<!---
-
 Code:
 
 * Boston Housing [R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/Boston_knn.R)
 * [bias-variance-illustration.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/bias-variance-illustration.R)
 
---->
 
 **Lecture 2**
 

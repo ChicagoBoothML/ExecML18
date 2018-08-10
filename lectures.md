@@ -31,20 +31,16 @@ Code:
 * regression trees; classification trees
 * tree induction algorithms; selecting the size of the tree
 
-<!---
-
 Slides:
 
-* [Recommender Systems](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j61ni5xfuii1sj)
-* [Classification and Regression Trees](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j61niiyiyeo1va)
+* [Recommender Systems](https://piazza.com/class_profile/get_resource/ji3gjqmmspyku/jkof2f3yeka3u8)
+* [Classification and Regression Trees](https://piazza.com/class_profile/get_resource/ji3gjqmmspyku/jkog3dtbi8k2r)
 
 Code and data:
 
 * scotch: [data](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.csv), [R](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.R)
 * [trees.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/trees.R)
 * [fglass.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/fglass.R)
-
---->
 
 
 Optional reading:

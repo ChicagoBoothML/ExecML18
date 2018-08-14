@@ -91,14 +91,12 @@ Optional reading:
 * expected value framework
 * profit and lift curves
 
-<!---
-[Slides](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j66mdamgq7x5o6)
+[Slides](https://piazza.com/class_profile/get_resource/ji3gjqmmspyku/jku07salt3w1zn)
 
 Code:
 
 * Tabloid: [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec04/tabloid.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec04/tabloid.pdf).
 * Accidents: [Rmd](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec04/accidents.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec04/accidents.pdf).
---->
 
 Optional reading:
 

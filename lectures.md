@@ -67,9 +67,7 @@ Optional reading:
   * bagging; random forest
   * boosting
 
-<!---
-
-[Slides](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j631whfi6y4o2)
+[Slides](https://piazza.com/class_profile/get_resource/ji3gjqmmspyku/jktzod3gn6u72s)
 
 Code:
 
@@ -77,7 +75,6 @@ Code:
   * bagging [trees](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/tree-bagging.R), [kNN](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/knn-bagging.R)
   * CaHousingAnalysis: [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec03/CaHousingAnalysis.pdf)
 
---->
 
 Optional reading:
 

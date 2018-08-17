@@ -113,13 +113,9 @@ Optional reading:
 * deep learning
 * convolutional neural networks, autoencoder, recurrent neural networks
 
-<!---
+[Slides](https://piazza.com/class_profile/get_resource/ji3gjqmmspyku/jky5k30oty55oi)
 
-[Slides](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j68cm2cahji2b2)
-
-Code: [https://github.com/ChicagoBoothML/ExecML/tree/master/code/lec05](https://github.com/ChicagoBoothML/ExecML/tree/master/code/lec05)
-
---->
+Code: [https://github.com/ChicagoBoothML/ExecML18/tree/master/code/lec05](https://github.com/ChicagoBoothML/ExecML18/tree/master/code/lec05)
 
 Optional reading:
 
